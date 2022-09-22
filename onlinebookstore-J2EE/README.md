@@ -81,17 +81,17 @@ commit;
 
 Step 0: Open Eclipse Enterprise Edition. [Install, if not already installed.]
 
-Step 1: Click On File > Import > Git > Projects From Git > Clone Uri  > Paste The Repository Url as: ```https://github.com/shashirajraja/onlinebookstore.git```> Select J2EE Branch > Next > Next > Finish
+Step 1: Click On File > Import > Git > Projects From Git > Clone Uri  > Paste The Repository Url as: ```https://github.com/Thant998/onlinebookstore.git```> Select J2EE Branch > Next > Next > Finish
 
 Step 2: Go inside ```OnlineBookStore > constants > IDatabase.java``` and update the value of USER_NAME and PASSWORD according to your installed mysql admin user credentials
 
 Step 3: [Only If Tomcat Server is not configured in Eclipse] : Right Click On Project > Run As > Run On Server > Select Tomcat V8.0 > (Select Tomcat V8.0 Installation Location If Asked) Next > Add onlinebookstore > Finish
 
-Step 4: In The Server Tab > Double Click On Tomcat Server > Ports > Change The Port Number For Http/1.1 To 8083 > Close And Save
+Step 4: In The Server Tab > Double Click On Tomcat Server > Ports > Change The Port Number For Http/1.1 To 8080 > Close And Save
 
 Step 5: Right Click On Project > Run As > Run On Server > Select Tomcat v8.0 > Next > Add All> Done
 
-Step 6: Check Running The Site At  <a href="http://localhost:8083/onlinebookstore/">http://localhost:8083/onlinebookstore/</a>
+Step 6: Check Running The Site At  <a href="http://localhost:8083/onlinebookstore/">http://localhost:8080/onlinebookstore/</a>
 
 Step 7: Default Username And Password For Admin Is "Admin" And "Admin"
 
