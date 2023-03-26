@@ -29,7 +29,7 @@
 - Html.
 - Css.
 - Javascript.
-- <a href="https://shashirajraja.github.io/onlinebookstore/WebContent/index.html" target="_blank">Click Here for Front End View</a>
+<!--- <a href="https://shashirajraja.github.io/onlinebookstore/WebContent/index.html" target="_blank">Click Here for Front End View</a>-->
 
 2. Back-End Development
 - Java [JDK 8+]
