@@ -9,7 +9,7 @@
 - For Implemention of Generic Servlets in Java.
 - This is a Mini-project developed using Java, Jdbc, And Generic Servlets.
 
-<span style="color:blue">**Admin Have Following Access for this online store site:-**</span>
+<span style="color:blue">**Admin Have Following Access for this online store site:**</span>
 - Add New Books.
 - View Books Available.
 - Remove Books.
