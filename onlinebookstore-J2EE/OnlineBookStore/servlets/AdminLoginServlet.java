@@ -30,7 +30,7 @@ public class AdminLoginServlet extends GenericServlet {
 				Cookie ck = new Cookie("usertype","admin");
 				
 				rd.include(req, res);
-				pw.println("<div class=\"tab\">Admin login Successful</div>");
+				pw.println("<div class=\"tab\">Admin Login Successful</div>");
 				pw.println("<div class=\"tab\"><br/><a href=\"AddBook.html\">ADD BOOKS</a><br/></div>");
 				pw.println("<div class=\"tab\"><br/><a href=\"RemoveBooks.html\">REMOVE BOOKS</a><br/></div>");
 				pw.println("<div class=\"tab\"><br/><a href=\"viewbook\">VIEW BOOKS</a></div>");
